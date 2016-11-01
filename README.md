@@ -1,2 +1,2 @@
 # jSpotify
-Music App
+Music App developed in Angular.js
